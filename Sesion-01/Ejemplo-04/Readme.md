@@ -58,6 +58,19 @@ print("Tengo {} años".format(edad))
 print("{} + {} = {}".format(4, 5, 4+5))  #4 + 5 = 9
 ```
 
+Otra forma es el uso de la **f-string** que nos permite dar formato de la siguiente manera:
 
+```
+# Añadir variables dentro de una cadena durante la ejecución
+nombre = "Luis"  
+print( f"Hola, mi nombre es {nombre}" )
+
+# Incluso se pueden agregar variables que no son cadenas
+edad = 28
+print( f"Tengo {edad} años" )
+
+# O se pueden agregar multiples datos
+print("{4} + {5} = {4+5}"
+```
 
 

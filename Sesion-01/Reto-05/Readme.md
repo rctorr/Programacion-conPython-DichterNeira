@@ -1,13 +1,7 @@
-	
-## Reto calculadora
-
+## Precio de helado
 ### OBJETIVO 
 
-- Utilizar distintos tipos de datos
-- Utilizar operadores lógicos y algebraicos
-- Escribir estructuras condicionales
-- Leer y escribir cadenas de texto
-
+- El alumno hará uso de condicionales
 
 #### REQUISITOS 
 
@@ -15,16 +9,11 @@
 
 #### DESARROLLO
 
-Crea una calculadora:
+Escribe un programa que devuelva el precio de un helado solicitado por el cliente de acuerdo al topping:
 
-1. Se deben solicitar al usuario dos números
+1. Helado con oreo: \$19
+2. Helado con m&m: \$25
+3. Helado con fresas: \$22
+4. Helado con brownie: \$28
 
-1. Se puede seleccionar entre diferentes operaciones(suma, resta, multiplicación y división).
-
-1. Obtener el resultado de la operación solicitada
-
-1. Considerar división entre cero
-
-1. Considerar caracteres no definidos como operaciones
-
-1. Imprimir resultados
+En caso de introducir otro topping, se le debe decir al cliente que el producto no esta disponible

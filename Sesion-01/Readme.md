@@ -16,22 +16,22 @@
 
 - Variables y tipos de datos
 	- [Ejemplo 02](Ejemplo-02)
-	- [Reto 01](Reto-01)
+	- [Reto 02](Reto-02)
 
 - Operadores lógicos y algebraicos
 	- [Ejemplo 03](Ejemplo-03)
-	- [Reto 02](Reto-02)
+	- [Reto 03](Reto-03)
 
 - Cadenas de texto
 	- [Ejemplo 04](Ejemplo-04)
-	- [Reto 03](Reto-03)
+	- [Reto 04](Reto-04)
 
 - Estructuras condicionales
 	- [Ejemplo 05](Ejemplo-05)
-	- [Reto 04](Reto-04)
+	- [Reto 05](Reto-05)
 
 - Reto final
-	- [Reto 05](Reto-05)
+	- [Reto Final](Reto-Final)
 
 - [Postwork](Postwork)
 
