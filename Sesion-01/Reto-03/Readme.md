@@ -23,12 +23,13 @@ Ejemplo de resultados:
 python volumen-esfera.py 
 Dame el radio de la esfera: 6371
 
-El volumen de la esfera es de 609303376068.7571 km³
+El volumen de la esfera es de 1083206001900.0126 km³
 
 
 python volumen-esfera.py 
 Dame el radio de la esfera: 696340     
 
-El volumen de la esfera es de 7.955634065780704e+17 km³
-
+El volumen de la esfera es de 1.4143349450276808e+18 km³
 ```
+
+**Nota:** Debido a factores como el número de decimales o el valor de Pi empleado para realizar los cáculos el valor de los volúmenes puede variar, pero las cantidad de dígitos deberá de coicidir y las primeras cifras también deben coincidir.
