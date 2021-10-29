@@ -59,8 +59,8 @@ elif numero > 0:
 else:
     print("El numero es negativo")
 ```
-La siguiente imagen muestra un diagrama de flujo de una estructura if else.
+Resumiendo, en la siguiente imagen muestra un diagrama de flujo de cada una de las estructuras if:
 
-![imagen](https://lh6.googleusercontent.com/proxy/h4HOTupkQLgcHyCcW-3RQzRNSBPoA8ntFEG9IDARFVmBK5ENE_BI9TNb8IprYvwuLc-qWcMUveEZb-FRoFnWh9RjI_oDZ3Us3H5d8s2PlifV5njS1wQQwQ=w1200-h630-p-k-no-nu)
+![if-elif-else](media/python-if.jpg)
 
 
