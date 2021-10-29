@@ -46,7 +46,7 @@ Modifica el script `libros.py` para que imprima la lista de libros sin repeticio
 Ejemplo:
 
 ```
-python Ejemplo-03/libros.py 
+python libros.py 
 El señor de los anillos
 El árte de la guerra
 La Meta

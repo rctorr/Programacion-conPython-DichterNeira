@@ -31,5 +31,3 @@ python fibonacci.py
 610
 987
 ```
-
-2. Realiza un ciclo for que itere sobre los valores de una tupla.
