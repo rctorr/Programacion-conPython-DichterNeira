@@ -20,18 +20,15 @@
 
 - Modulos
 	- [Ejemplo 03](Ejemplo-03)
-	- [Reto 04](Reto-03)
+	- [Reto 03](Reto-03)
 
 - Paquetes
 	- [Ejemplo 04](Ejemplo-04)
-
+	- [Reto 04](Reto-04)
 
 - Docstrings
 	- [Ejemplo 05](Ejemplo-05)
 
-
-- Reto final
-	- [Reto 04](Reto-04)
 
 - [Postwork](Postwork)
 

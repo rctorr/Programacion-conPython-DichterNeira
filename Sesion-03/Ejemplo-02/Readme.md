@@ -60,3 +60,8 @@ app= Flask(__name__)
 #Veremos más sobre Flask en próximas lecciones
 
 ```
+
+**Módulos sugeridos para instalar:**
+
+- `ipython`
+- `click`

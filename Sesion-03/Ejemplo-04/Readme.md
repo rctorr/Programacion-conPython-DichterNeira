@@ -64,4 +64,5 @@ In [5]: imprime_toppings(helado.varios.menu)
 -------------------------
 ```
 
-Ahora ejecuta el script `helado_precio.py` y luego observa el código
+Ahora modifica el script `helado_precio.py` para que haga uso de los componentes del módulo para hacer que el programa nuevamente funcione como lo venía haciendo.
+

@@ -8,10 +8,7 @@ def main():
     # 1. Imprimir la lista de opciones en la pantalla
     # 2. Leer la opción elegida por el usuario
     # 3. En base a la opción del usuario imprimir el valor del helado
-    helado.varios.borrar_terminal()
-    imprime_toppings(helado.varios.menu)
-    opcion = entrada.lee_respuesta()
-    imprime_precio(opcion)
+    pass
 
 # Para validar si este script es el programa principal
 if __name__ == "__main__":

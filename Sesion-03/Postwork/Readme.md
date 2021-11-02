@@ -31,19 +31,19 @@ Ejemplo de ejecución capturando tres tarjetas e imprimiendo su resumen:
 
 ```
 python pago-tarjeta.py 
-Nombre del dueño de la tarjeta: Hugo
+Nombre de la tarjeta: Visa
 Tasa de interés anual de la tarjeta (%): 34.5
 Escribe el monto de la deuda actual de la tarjeta: 1000.0
 Escribe el monto del pago a realizar: 255.0
 Escribe el monto total de los nuevos cargos: 150.0
 
-Nombre del dueño de la tarjeta: Paco
+Nombre de la tarjeta: American
 Tasa de interés anual de la tarjeta (%): 45.0  
 Escribe el monto de la deuda actual de la tarjeta: 5000.0
 Escribe el monto del pago a realizar: 3500.0
 Escribe el monto total de los nuevos cargos: 1500.0
 
-Nombre del dueño de la tarjeta: Luis
+Nombre de la tarjeta: Master
 Tasa de interés anual de la tarjeta (%): 41.0  
 Escribe el monto de la deuda actual de la tarjeta: 3400
 Escribe el monto del pago a realizar: 1200
@@ -53,7 +53,7 @@ Escribe el monto total de los nuevos cargos: 500.0
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:             1000.00
@@ -72,7 +72,7 @@ Nueva deuda del mes:       916.42
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Paco
+Tarjeta a nombre de:   American
 Tasa de interés anual: 45.00%
 ----------------------------------------
 Deuda actual:             5000.00
@@ -91,7 +91,7 @@ Nueva deuda del mes:      3056.25
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Luis
+Tarjeta a nombre de:   Master
 Tasa de interés anual: 41.00%
 ----------------------------------------
 Deuda actual:             3400.00
@@ -111,7 +111,7 @@ Ejemplo obteniendo el pago recurrente para la primer tarjeta del ejemplo anterio
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:             1000.00
@@ -129,7 +129,7 @@ Nueva deuda del mes:       916.42
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              916.42
@@ -147,7 +147,7 @@ Nueva deuda del mes:       680.43
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              680.43
@@ -165,7 +165,7 @@ Nueva deuda del mes:       437.67
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              437.67
@@ -183,7 +183,7 @@ Nueva deuda del mes:       187.92
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              187.92
@@ -201,7 +201,7 @@ Nueva deuda del mes:         0.00
 Ejemplo de proyectar varios pagos distintos a un tarjeta:
 ```
 python pago-tarjeta.py 
-Nombre del dueño de la tarjeta: Hugo
+Nombre de la tarjeta: Visa
 Tasa de interés anual de la tarjeta (%): 34.5
 Escribe el monto de la deuda actual de la tarjeta: 1000.0
 Escribe el monto del pago a realizar: 255.0
@@ -211,7 +211,7 @@ Escribe el monto total de los nuevos cargos: 150.0
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:             1000.00
@@ -237,7 +237,7 @@ Escribe la cantidad del siguiente pago (escribe 0 para terminar): 0
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:             1000.00
@@ -255,7 +255,7 @@ Nueva deuda del mes:       916.42
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              916.42
@@ -273,7 +273,7 @@ Nueva deuda del mes:       634.14
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              634.14
@@ -291,7 +291,7 @@ Nueva deuda del mes:       446.62
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              446.62
