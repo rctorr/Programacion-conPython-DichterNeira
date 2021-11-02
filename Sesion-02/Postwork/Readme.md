@@ -35,19 +35,19 @@ Apoyate en el desarrollo de el postwork pasado para crear las siguientes funcion
 Caso de ejemplo para una lista de tarjetas:
 ```
 python tarjeta.py 
-Nombre del dueño de la tarjeta: Hugo
+Nombre de la tarjeta: Visa
 Tasa de interés anual de la tarjeta (%): 34.5
 Escribe el monto de la deuda actual de la tarjeta: 1000.0
 Escribe el monto del pago a realizar: 255.0
 Escribe el monto total de los nuevos cargos: 150.0
 
-Nombre del dueño de la tarjeta: Paco
+Nombre de la tarjeta: American
 Tasa de interés anual de la tarjeta (%): 45.0
 Escribe el monto de la deuda actual de la tarjeta: 15000.0
 Escribe el monto del pago a realizar: 3500.0
 Escribe el monto total de los nuevos cargos: 2750.0
 
-Nombre del dueño de la tarjeta: Luis
+Nombre de la tarjeta: Master
 Tasa de interés anual de la tarjeta (%): 40.0
 Escribe el monto de la deuda actual de la tarjeta: 5000.0
 Escribe el monto del pago a realizar: 2500.0
@@ -57,7 +57,7 @@ Escribe el monto total de los nuevos cargos: 500.0
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:             1000.00
@@ -76,7 +76,7 @@ Nueva deuda del mes:       916.42
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Paco
+Tarjeta a nombre de:   American
 Tasa de interés anual: 45.00%
 ----------------------------------------
 Deuda actual:            15000.00
@@ -95,7 +95,7 @@ Nueva deuda del mes:     14681.25
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Luis
+Tarjeta a nombre de:   Master
 Tasa de interés anual: 40.00%
 ----------------------------------------
 Deuda actual:             5000.00
@@ -113,7 +113,7 @@ Nueva deuda del mes:      3083.33
 Caso de ejemplo para la función `pago_recurrente()`:
 ```
 python tarjeta.py 
-Nombre del dueño de la tarjeta: Hugo
+Nombre de la tarjeta: Visa
 Tasa de interés anual de la tarjeta (%): 34.5
 Escribe el monto de la deuda actual de la tarjeta: 1000.0
 Escribe el monto del pago a realizar: 255.0
@@ -122,7 +122,7 @@ Escribe el monto total de los nuevos cargos: 150.0
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:             1000.00
@@ -140,7 +140,7 @@ Nueva deuda del mes:       916.42
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              916.42
@@ -158,7 +158,7 @@ Nueva deuda del mes:       680.43
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              680.43
@@ -176,7 +176,7 @@ Nueva deuda del mes:       437.67
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              437.67
@@ -194,7 +194,7 @@ Nueva deuda del mes:       187.92
 ----------------------------------------
 ---------- Resumen de tarjeta ----------
 ----------------------------------------
-Tarjeta a nombre de:   Hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:              187.92

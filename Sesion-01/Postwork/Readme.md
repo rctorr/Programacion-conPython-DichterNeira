@@ -36,7 +36,7 @@
 
 ```
 python tarjeta.py 
-Nombre del dueño de la tarjeta: Hugo
+Nombre de la tarjeta: Visa
 Tasa de interés anual de la tarjeta (%): 35.0
 Escribe el monto de la deuda actual de la tarjeta: 1000.0
 Escribe el monto del pago a realizar: 1200.0
@@ -45,7 +45,7 @@ No es posible realizar un pago mayor a la deuda!
 
 
 python tarjeta.py 
-Nombre del dueño de la tarjeta: hugo
+Nombre de la tarjeta: Visa
 Tasa de interés anual de la tarjeta (%): 34.5
 Escribe el monto de la deuda actual de la tarjeta: 1000.0
 Escribe el monto del pago a realizar: 250.0
@@ -53,7 +53,7 @@ Escribe el monto total de los nuevos cargos: 150.0
 
 Resumen de tarjeta:
 ----------------------------------------
-Tarjeta a nombre de:   hugo
+Tarjeta a nombre de:   Visa
 Tasa de interés anual: 34.50%
 ----------------------------------------
 Deuda actual:             1000.00

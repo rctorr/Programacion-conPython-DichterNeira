@@ -24,4 +24,4 @@ Realiza un programa que calcule el minimo común múltiplo utilizando el algorit
 5. Si d / a y d / b sin divisiones exactas entonces la funsión regresa el valor de d como el mcm
 6. Si no entonces repite desde el paso 4
 
-Elije la opción que sea mejor para tí
+Elije la opción que sea mejor para tí!
