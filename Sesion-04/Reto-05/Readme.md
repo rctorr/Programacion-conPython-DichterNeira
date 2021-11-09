@@ -14,7 +14,7 @@
 2. Código de reto 3
 
 #### DESARROLLO
-Crea un script llamado `tree.py` qie imprima la lista de carpetas y archivos existentes a partir de la carpeta actual del script o de la carpeta proporcionada por el usuario en la línea de comandos.
+Crea un script llamado `tree.py` que imprima la lista de carpetas y archivos existentes a partir de la carpeta actual del script o de la carpeta proporcionada por el usuario en la línea de comandos.
 
 Sugerencias:
 - Usa el módulo click para leer la carpeta inicial proporcionada por el usuario (pregunta como!)
