@@ -1,6 +1,3 @@
- 
-
-	
 ## Usar paquetes y módulos
 
 ### OBJETIVO 

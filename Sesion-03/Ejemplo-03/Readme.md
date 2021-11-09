@@ -13,4 +13,7 @@
 
 Los modulos nos permiten estructurar nuestro código en más de un archivo, cualquier archivo .py puede considerarse un modulo
 
-Modifica el script `helado.py` para convertirlo en un módulo, luego con IPython importalo y has uso de las funciones disponibles.
+Inicia **IPython** e importa el script `helado.py` como módulo y observa los resultados, entonces sal de **IPython**.
+
+Ahora modifica `helado.py` para convertirlo en un módulo, inicia **IPython** e importalo, entonces observa los resultados y has uso de las funciones disponibles.
+
