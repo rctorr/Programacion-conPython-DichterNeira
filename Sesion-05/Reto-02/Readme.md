@@ -11,5 +11,5 @@
 
 #### DESARROLLO
 
-- Crea un decoradorador que ejecute tres veces la clase decorada
+- Crea un decoradorador que ejecute tres veces la función decorada
 - Decora alguna función con el decorador recien creado
