@@ -115,6 +115,16 @@ def sql_fetch(con):
 
 sql_fetch(con)
 ```
+---
 
+Modifica el módulo `bd.py` para que muestre la siguiente salida complementando la clase `ArchivosDB`:
 
+```bash
+$ python bd.py 
+    1       12345  01-02-2021 01:02:03  uno.txt
+    2       23456  01-02-2021 01:02:03  dos.txt
+    3       34567  02-02-2021 03:02:03  tres.py
+    4       45678  03-02-2021 05:02:03  cuatro.csv
+    5        4512  10-03-2021 09:02:03  cinco.json
+```
 
