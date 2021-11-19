@@ -69,3 +69,6 @@ In [13]: with open("ejemplo.csv", "w", newline="") as arch_txt:
 
 In [14]: 
 ```
+
+Ahora modifica el programa `tree.py` de la sesión anterior y agrega la opción `--csv` que permita exportar la información en formato CSV en el archivo `salida.csv`. Comprueba el contenido del archivos CSV abriendo el archivo en el editor de código o en una hoja de cálculo.
+
