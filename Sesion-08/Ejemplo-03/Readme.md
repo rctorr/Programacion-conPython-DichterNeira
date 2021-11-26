@@ -28,7 +28,6 @@ import pytest
         (12.5, 1.2, 13.7)
     ]
 )
-
 def test_suma(num1, num2, resultado):
     assert operaciones.suma(num1, num2)==resultado 
 ```

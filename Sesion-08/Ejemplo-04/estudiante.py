@@ -11,4 +11,4 @@ class EstudianteDB:
     def get_data(self, nombre):
         for estudiante in self.__data['estudiantes']:
             if estudiante['nombre'] == nombre:
-                return estudiante
+                return nombre
